@@ -65,11 +65,11 @@ The report includes the following visualizations:
 - **Drill Through**: Provides detailed information by drilling through related data.
 - **Tooltip Page**: Custom tooltip pages are used to display additional information on hover.
 
-![# Orders by Order Date](images/1.png)
+![# Orders by Order Date](images/1.jpg)
 
-![Tooltip Page](images/tooltip.png)
+![Tooltip Page](images/tooltip.jpg)
 
-![# Orders by Status](images/2.png)
+![# Orders by Status](images/2.jpg)
 
 ## Design
 
