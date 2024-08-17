@@ -23,9 +23,7 @@ This project involves the use of Microsoft Power BI to analyze sales data from t
 - **Date Range**: 
   - Start Date: `7/1/2005`
   - End Date: `7/31/2008`
-- **Date Table**: Created using DAX with the formula:
-  ```DAX
-  Dates = CALENDAR(01-01-2005, 31-12-2008)
+- **Date Table**: Created using DAX
 
 - **Status**: Status values are derived based on the `ufnGetSalesOrderStatusText` function.
 - **Renaming**: Tables and columns were renamed for clarity.
