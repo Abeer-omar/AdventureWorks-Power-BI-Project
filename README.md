@@ -3,6 +3,14 @@
 ## Overview
 This project involves the use of Microsoft Power BI to analyze sales data from the AdventureWorks OLTP database. The project focuses on creating an interactive dashboard using DirectQuery mode, allowing for real-time data analysis. The dashboard includes various measures, visualizations, and features like drill-downs, drill-throughs, and tooltips to provide insights into sales performance.
 
+![# Orders by Order Date](1.jpg)
+
+
+![Tooltip Page](tooltip.jpg)
+
+
+![# Orders by Status](2.jpg)
+
 ## Database
 
 **AdventureWorks OLTP**
@@ -64,12 +72,6 @@ The report includes the following visualizations:
 - **Drill Down**: Allows users to drill down into specific data points.
 - **Drill Through**: Provides detailed information by drilling through related data.
 - **Tooltip Page**: Custom tooltip pages are used to display additional information on hover.
-
-![# Orders by Order Date](1.jpg)
-
-![Tooltip Page](tooltip.jpg)
-
-![# Orders by Status](2.jpg)
 
 ## Design
 
